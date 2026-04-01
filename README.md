@@ -2,8 +2,6 @@
 
 Firefox extension that customizes the appearance of duration timers on SoundCloud waveforms.
 
-🔗 [GitHub Repository](https://github.com/pepeyc7526/soundcloud-duration-style) | 🔗 [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-duration-style/)
-
 ## Features
 
 - Scale duration timer canvas (100% - 250%)
@@ -66,8 +64,3 @@ MIT License — See [LICENSE](LICENSE) file for details.
 ## Credits
 
 Developed with assistance from Qwen3.5-Plus AI.
-
-## Contributing
-
-Feel free to open issues or pull requests on GitHub:
-https://github.com/pepeyc7526/soundcloud-duration-style
