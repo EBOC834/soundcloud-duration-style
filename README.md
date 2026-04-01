@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # SoundCloud Duration Style
 
 Firefox extension that customizes the appearance of duration timers on SoundCloud waveforms.
@@ -72,4 +71,3 @@ Developed with assistance from Qwen3.5-Plus AI.
 
 Feel free to open issues or pull requests on GitHub:
 https://github.com/pepeyc7526/soundcloud-duration-style
-EOF
