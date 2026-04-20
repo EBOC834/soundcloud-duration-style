@@ -38,6 +38,7 @@
 3. Select the downloaded file and confirm
 4. Click the extension icon in your toolbar to open settings
 5. Adjust preferences and reload SoundCloud
+6. On mozilla https://addons.mozilla.org/en-US/firefox/addon/soundcloud-duration-style/
 
 ## 🔧 Usage
 
